@@ -53,13 +53,6 @@ h1 {
     margin-bottom: 0.2rem;
 }
 
-/* --- Bio o texto destacado --- */
-.bio {
-    margin-top: 1rem;
-    font-size: 1.1rem;
-    color: #444;
-}
-
 /* --- RESPONSIVE DESIGN (móviles) --- */
 @media (max-width: 600px) {
 
